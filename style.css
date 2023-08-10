@@ -1,0 +1,27 @@
+
+
+
+
+a{
+	color: black;
+	text-decoration: none;
+	text-transform: inherit;
+	text-shadow: -4px -3px 3px blue;
+
+
+
+}
+p{
+	text-indent: 50 px;
+	letter-spacing: 4px;
+	word-spacing: 4px;
+	line-height: 1.5;
+	white-space: pre-wrap;
+	font-family: cursive, "Colonna MT";
+}
+#boom2{
+	text-shadow: -2px -3px 2px yellow; 
+	text-align: center;
+	text-orientation: inherit;
+	font-family:  chiller;
+}
